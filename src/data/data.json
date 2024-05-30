@@ -1,0 +1,122 @@
+{
+  "menu": {
+    "": "qweqw"
+  },
+  "section1": {
+    "content": {
+      "title": ["Transforming", "the world, one", "bite at a time"],
+      "text": "At AR Realifood, we are pioneers in the application of Augmented Reality technology to address one of the most pressing challenges of our era: reducing food waste. With a passionate team and innovative vision, we are dedicated to creating solutions that not only transform the way we interact with food, but also positively impact the world we share.",
+      "textButton": "BUILD YOUR WORLD"
+    },
+
+    "slides": [
+      {
+        "image": "/location.svg",
+        "title": "Pay Us a Visit",
+        "text": "Canarias, Spain"
+      },
+      {
+        "image": "/phone.svg",
+        "title": "Contact Us",
+        "text": "331-026-7110"
+      },
+      {
+        "image": "/mail.svg",
+        "title": "Send Us an Email",
+        "text": "info@realifood.com"
+      }
+    ]
+  },
+  "section2": {
+    "head": {
+      "title": ["MISSION", "OF REALIFOOD"],
+      "text": "Our mission is simple but powerful: use Augmented Reality to revolutionize the way we perceive, consume and manage food. We are committed to delivering tools and experiences that not only optimize the food supply chain, but also educate and inspire people to make more conscious and sustainable decisions."
+    },
+    "content": {
+      "title": ["ABOUT", "AR Realifood"],
+      "text": "We see ourselves as leaders in the convergence between cutting-edge technology and sustainable food. We strive for a world where Augmented Reality is not only an innovative tool, but also a catalyst for a more equitable, efficient and environmentally friendly food future.",
+      "textButton": "LET’S GET IN TOUCH"
+    }
+  },
+  "section3": {
+    "head": {
+      "title": ["THAT MAKES US", "DIFFERENT"],
+      "text": "At AR Realifood, our differentiation lies in our passion for innovation with purpose. We not only create immersive experiences and advanced technical solutions, but we are also deeply committed to the cause we champion. Our unique combination of technical expertise and social commitment allows us to deliver tangible results that transcend the limits of technology."
+    },
+    "cards": [
+      {
+        "image": "img/3.png",
+        "title": "Realifood",
+        "text": "We are on a mission to revolutionize the food industry through the power of augmented reality (AR). Our specialty lies in the application of AR to reduce food waste. How do we achieve this? We enable our customers visualize and optimize their food production and distribution processes in innovative ways, leading to greater efficiency and significant reduction in waste. Are you ready to join us on this journey towards a more sustainable food future?",
+        "textButton": "TRY IT NOW"
+      },
+      {
+        "image": "img/4.png",
+        "title": "Advantages",
+        "text": "Why choose AR Realifood? The answer is simple: we offer solutions that make a difference. With our augmented reality technology, we help companies identify areas of improvement in their supply chains, optimizing production and minimizing waste 'Our approach is not only innovative, but also economically viable, meaning our customers can experience a tangible return on investment while actively contributing to the reduction of global food waste'.",
+        "textButton": "TRY IT NOW"
+      },
+      {
+        "image": "img/5.png",
+        "title": "Environment",
+        "text": "At AR Realifood, we not only care about business results, but also about the impact we have on society and the environment. By reducing food waste through our augmented reality technology, we are addressing one of the greatest challenges of our era: food safety and environmental sustainability. Every time a company chooses to work with us, they are taking a step forward towards a future where food waste is a concern of the past.",
+        "textButton": "TRY IT NOW"
+      },
+      {
+        "image": "img/6.png",
+        "title": "Innovation",
+        "text": "Can you imagine being able to visualize your entire food supply chain in real time? With AR Realifood, that vision becomes a reality. Our augmented reality technology allows users to see, analyze and optimize every stage of the chain, from production to delivery, in a completely new way. We are redefining how companies interact with their processes, driving efficiency and sustainability to unprecedented levels. Join us and be part of the next wave of innovation in the food industry. ",
+        "textButton": "TRY IT NOW"
+      }
+    ]
+  },
+  "section4": {
+    "title": [
+      "WHY TRUST US",
+      "Realifood AR excels in food tech, sustainability, expertise."
+    ],
+    "mainImage": "imgh/1.png",
+    "brands": ["tech1.png", "tech2.png", "tech3.png", "tech4.png"]
+  },
+  "section5": {
+    "head": {
+      "title": ["WHO HAS TRUSTED US", "FOOD INDUSTRY"],
+      "text": "AR Realifood has had the privilege of collaborating with a wide range of leading organizations in the food industry, from small local businesses to globally recognized multinationals. Our clients and partners trust us to deliver innovative solutions and proven results that make a real impact on their operations and the world around us."
+    },
+    "cards": [
+      {
+        "id": 1,
+        "title": "3D Conception & Design"
+      },
+      {
+        "id": 2,
+        "title": "Interaction Design"
+      },
+      {
+        "id": 3,
+        "title": "VR World User Testing"
+      },
+      {
+        "id": 4,
+        "title": "Hydra VR Deploy"
+      }
+    ]
+  },
+  "section6": {
+    "title": [
+      "READY TO JOIN?",
+      "Contact us today and discover how AR Realifood can take your business towards a more sustainable and profitable future!"
+    ],
+    "email": "email@email.com",
+    "textButton": "SEND TO REALIFOOD"
+  },
+  "section7": {
+    "text": "2024 © AR Realifood - ALL RIGHTS RESERVED"
+  },
+  "project": {
+    "head": {
+      "title": ["PROJECTS", "OF REALIFOOD"],
+      "text": "We are actively engaged in developing cutting-edge technologies aimed at enhancing food safety and sustainability. Our goal is to create impactful solutions that address the challenges of food waste reduction and promote a more efficient and responsible food supply chain."
+    }
+  }
+}
