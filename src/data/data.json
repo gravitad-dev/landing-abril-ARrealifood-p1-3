@@ -111,7 +111,25 @@
     "textButton": "CONTÁCTANOS"
   },
   "section7": {
-    "text": "2024 © AR Realifood - TODOS LOS DERECHOS RESERVADOS"
+    "text": "2024 © AR Realifood - TODOS LOS DERECHOS RESERVADOS",
+    "social": [
+      {
+        "id": 0,
+        "url": "https://www.instagram.com/realifood_/"
+      },
+      {
+        "id": 1,
+        "url": "https://www.facebook.com/profile.php?id=61559424928972"
+      },
+      {
+        "id": 2,
+        "url": "https://www.linkedin.com/company/102877270/admin/feed/posts/"
+      },
+      {
+        "id": 3,
+        "url": "https://x.com/realifood_"
+      }
+    ]
   },
   "project": {
     "head": {
