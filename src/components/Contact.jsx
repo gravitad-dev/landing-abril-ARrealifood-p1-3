@@ -20,12 +20,9 @@ function Contact() {
             {title[1]}
           </h4>
         </div>
-        <form
-          method="post"
-          action={`mailto:${email}?subject=subject&message=message`}
-        >
+        <a href="http://" target="_blank" rel="noopener noreferrer">
           <Button className="mt-[35px]">{textButton}</Button>
-        </form>
+        </a>
       </div>
     </section>
   );

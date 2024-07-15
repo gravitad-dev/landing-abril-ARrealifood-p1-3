@@ -57,7 +57,8 @@ function Hero() {
         </div>
       </div>
 
-      <HeroCarousel slides={slides} />
+      {/* <HeroCarousel slides={slides} /> */}
+      <div className="mb-16"></div>
     </>
   );
 }

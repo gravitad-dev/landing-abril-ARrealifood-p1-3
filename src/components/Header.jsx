@@ -14,14 +14,11 @@ function Header() {
 
         <ul className="justify-center hidden md:flex">
           <li className="flex gap-4 text-white font-semibold text-[12px]">
-            <a href="#about">ABOUT</a>
-            <a href="#services">OUR WORK</a>
-            <a href="#project">PROJECT</a>
-            <a href="#howto">WHY US</a>
-            <a
-              href="https://realifood.blog.jumpylife.com"
-              target="_blank"
-            >
+            <a href="#about">MISIÓN</a>
+            <a href="#services">TRABAJO</a>
+            <a href="#project">PROYECTOS</a>
+            <a href="#howto">NOSOTROS</a>
+            <a href="https://realifood.blog.jumpylife.com" target="_blank">
               BLOG
             </a>
           </li>
@@ -29,7 +26,7 @@ function Header() {
 
         <div className="flex justify-end gap-4">
           <a href="#contact">
-            <Button className="text-[12px]">CONTACT</Button>
+            <Button className="text-[12px]">CONTÁCTANOS</Button>
           </a>
         </div>
       </div>

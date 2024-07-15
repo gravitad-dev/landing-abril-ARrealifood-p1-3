@@ -24,7 +24,8 @@ function Project() {
 
           <div className="flex flex-col items-center md:items-start h-full w-full">
             <h4 className=" text-[24px] mb-4  w-full text-center md:text-start ">
-              AUGMENTED REALITY APPLIED TO FOOD WASTE REDUCTION
+              REALIDAD AUMENTADA APLICADA A LA REDUCCIÓN DEL DESPERDICIO
+              ALIMENTARIO
             </h4>
             <div className=" flex md:hidden   h-[2px] w-full bg-gradient-to-r from-[#343045] via-[#C0B7E8] to-[#343045]">
               {" "}
@@ -33,14 +34,16 @@ function Project() {
               {" "}
             </div>
             <p className="text-[16px] mt-[20px] text-center md:text-left">
-              This project harnesses augmented reality technology to tackle the
-              issue of food waste. By integrating AR into various stages of the
-              food supply chain, from production to consumption, it aims to
-              increase awareness, improve efficiency, and empower consumers to
-              make informed decisions that contribute to reducing food waste.
+              Este proyecto aprovecha la tecnología de realidad aumentada para
+              abordar el problema del desperdicio de alimentos. Al integrar la
+              RA en varias etapas de la cadena de suministro de alimentos, desde
+              la producción hasta el consumo, su objetivo es aumentar la
+              conciencia, mejorar la eficiencia y capacitar a los consumidores
+              para que tomen decisiones informadas que contribuyan a reducir el
+              desperdicio de alimentos.
             </p>
-            <a href="#contact">
-              <Button className="mt-[35px]">MORE INFO</Button>
+            <a href="https://realifood.blog.jumpylife.com/contact-us/">
+              <Button className="mt-[35px]">MÁS INFO</Button>
             </a>
           </div>
         </div>
