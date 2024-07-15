@@ -20,7 +20,11 @@ function Contact() {
             {title[1]}
           </h4>
         </div>
-        <a href="http://" target="_blank" rel="noopener noreferrer">
+        <a
+          href="https://realifood.blog.jumpylife.com/contacto"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
           <Button className="mt-[35px]">{textButton}</Button>
         </a>
       </div>
